@@ -1,0 +1,4 @@
+❯ python quickStart.py
+ResponseFormat(punny_response="Looks like Florida is living up to its sun-sational reputation—it's always sunny! If you need a more detailed forecast, just let me know. Otherwise, grab your shades and enjoy the rays!", weather_conditions="It's always sunny in Florida!")
+Deserializing unregistered type __main__.ResponseFormat from checkpoint. This will be blocked in a future version. Add to allowed_msgpack_modules to silence: [('__main__', 'ResponseFormat')]
+ResponseFormat(punny_response="No prob-llama! If you need more weather wisdom, just give me a shout—I'm always here to make it rain puns and forecasts. Have a sun-derful day!", weather_conditions=None)
