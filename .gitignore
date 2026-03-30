@@ -2,3 +2,6 @@
 .dev
 *.pckl
 __pycache__
+.DS_Store
+.sqlite3
+chroma/
